@@ -1,4 +1,4 @@
-#Name: Kiet Nguyen TEST
+#Name: Kiet Nguyen
 #Email: mirose@csu.fullerton.edu
 
 #Description: This program is designed to cipher a message, default or user defined, using the Vigenere ciphering method.
